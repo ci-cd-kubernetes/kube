@@ -1,6 +1,6 @@
 # Welcome to Kubernetes starter
 
-This repository will provide basic yaml files to create resorces from beginner to advanced.
+This repository will provide basic yaml files to create resorces from beginner to advance.
 
 ## Creating basic json files for kubernetes resources.
 
