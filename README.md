@@ -11,3 +11,5 @@ manifests file like Pods, Replica-set, Deployments, Services etc.
 Please provide your feedback & suggestion to improve this repo.
 
 Copyright @Amardeep
+
+Thanks!
