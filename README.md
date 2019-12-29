@@ -9,3 +9,5 @@ manifests file like Pods, Replica-set, Deployments, Services etc.
 ## Feel free to contribute
 
 Please provide your feedback & suggestion to improve this repo.
+
+Copyright @Amardeep
